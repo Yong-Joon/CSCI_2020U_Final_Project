@@ -43,6 +43,9 @@ public class BattleShipClient2 extends Application {
     private Ship carrier = new Ship(5,"Carrier");
     private final Ship[] ships = {destroyer, battleship, patrol, submarine, carrier};
 
+    //counts turns
+    int turnCounter = 0;
+
     @Override
     public void start(Stage stage) throws Exception {
         //draw grid
@@ -115,7 +118,7 @@ public class BattleShipClient2 extends Application {
                     tf.setText("");
                 });
                 */
-
+                turnCounter++;
                 playerTurn = false;
             } else {    //computer turn
                 Random r = new Random();
@@ -138,6 +141,7 @@ public class BattleShipClient2 extends Application {
             //check who has lost
             if (hasLost(opponentBoard)){
                 ta.appendText("You have won!");
+                System.out.println("turns taken: " + turnCounter);
                 break;
             } else if (hasLost(playerBoard)) {
                 ta.appendText("You have lost.");

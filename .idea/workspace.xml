@@ -92,7 +92,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="Application.BattleShipClient">
+  <component name="RunManager" selected="Application.BattleShipClient2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -221,9 +221,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BattleShipClient2" />
         <item itemvalue="Application.BattleShipClient" />
         <item itemvalue="Application.BattleShipServer" />
-        <item itemvalue="Application.BattleShipClient2" />
       </list>
     </recent_temporary>
   </component>
@@ -249,10 +249,10 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="4" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584909843522">
+    <state x="4" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584933352892">
       <screen x="0" y="0" width="1094" height="690" />
     </state>
-    <state x="4" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1094.690@0.0.1094.690" timestamp="1584909843522" />
+    <state x="4" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1094.690@0.0.1094.690" timestamp="1584933352892" />
     <state x="217" y="38" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584909776914">
       <screen x="0" y="0" width="1094" height="690" />
     </state>
@@ -261,6 +261,22 @@
       <screen x="0" y="0" width="1094" height="690" />
     </state>
     <state x="207" y="31" key="FileChooserDialogImpl/0.0.1094.690@0.0.1094.690" timestamp="1584909813514" />
+    <state width="1039" height="152" key="GridCell.Tab.0.bottom" timestamp="1584935496220">
+      <screen x="0" y="0" width="1094" height="690" />
+    </state>
+    <state width="1039" height="152" key="GridCell.Tab.0.bottom/0.0.1094.690@0.0.1094.690" timestamp="1584935496220" />
+    <state width="1039" height="152" key="GridCell.Tab.0.center" timestamp="1584935496220">
+      <screen x="0" y="0" width="1094" height="690" />
+    </state>
+    <state width="1039" height="152" key="GridCell.Tab.0.center/0.0.1094.690@0.0.1094.690" timestamp="1584935496220" />
+    <state width="1039" height="152" key="GridCell.Tab.0.left" timestamp="1584935496220">
+      <screen x="0" y="0" width="1094" height="690" />
+    </state>
+    <state width="1039" height="152" key="GridCell.Tab.0.left/0.0.1094.690@0.0.1094.690" timestamp="1584935496220" />
+    <state width="1039" height="152" key="GridCell.Tab.0.right" timestamp="1584935496220">
+      <screen x="0" y="0" width="1094" height="690" />
+    </state>
+    <state width="1039" height="152" key="GridCell.Tab.0.right/0.0.1094.690@0.0.1094.690" timestamp="1584935496220" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1584909815451">
       <screen x="0" y="0" width="1094" height="690" />
     </state>
